@@ -1,2 +1,1 @@
-"Helloooo" 
-"Minji" 
+"First line" 
